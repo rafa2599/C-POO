@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/POO.dir/link.d CMakeFiles/POO.dir/src/main.cpp.o CMakeFiles/POO.dir/src/Tiempo.cpp.o -o POO
